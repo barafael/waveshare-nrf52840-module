@@ -1,0 +1,1 @@
+# waveshare-nrf52840-module
